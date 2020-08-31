@@ -4,7 +4,7 @@
     "gulp": "4.0.2"
   },
   "dependencies": {
-    "laravel-elixir": "3.4.3",
+    "laravel-elixir": "5.0.0",
     "bootstrap-sass": "3.4.1"
   }
 }

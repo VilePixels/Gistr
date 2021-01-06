@@ -15,7 +15,7 @@
         "fzaninotto/faker": "1.9.1",
         "mockery/mockery": "0.9.11",
         "phpunit/phpunit": "4.8.36",
-        "phpspec/phpspec": "2.5.8"
+        "phpspec/phpspec": "7.0.1"
     },
     "autoload": {
         "classmap": [

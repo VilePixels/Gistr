@@ -8,7 +8,7 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.8.38",
         "laravel/socialite": "2.0.4",
-        "guzzlehttp/guzzle": "4.2.4",
+        "guzzlehttp/guzzle": "7.3.0",
         "graham-campbell/github": "9.4.0"
     },
     "require-dev": {

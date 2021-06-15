@@ -6,7 +6,7 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.8.38",
+        "laravel/framework": "8.46.0",
         "laravel/socialite": "2.0.4",
         "guzzlehttp/guzzle": "4.2.4",
         "graham-campbell/github": "9.4.0"
